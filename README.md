@@ -21,7 +21,7 @@
 ## 📂 Featured Projects  
 - 🔐 Safe Multi-Signature Wallet deployed on Sepolia (Testnet)  
 - 📄 Smart Contract samples (ERC-20, ERC-721, Governance modules)  
-- 🌐 [Upcoming dApps and Web3 experiments]  
+- 🌐 Upcoming dApps and Web3 experiments  
 
 ## 📫 Connect With Me  
 - GitHub: [Victor Maximus](https://github.com/RiasMaximus)  
